@@ -1,5 +1,8 @@
 # Dopt blocks JavaScript Node.js client
 
+![npm sheild](https://img.shields.io/npm/v/%40dopt/blocks-javascript-node-client)
+[![fern shield](https://img.shields.io/badge/%F0%9F%8C%BF-SDK%20generated%20by%20Fern-brightgreen)](https://github.com/fern-api/fern)
+
 ## Overview
 
 The Dopt blocks JavaScript client is a friendly server-side package for accessing the Dopt blocks API to access and updates block and flow state for a particular user in Dopt.
